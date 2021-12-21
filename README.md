@@ -127,6 +127,7 @@ listView.setOnMenuItemClickListener(new OnMenuItemClickListener() {
 		public int getItemViewType(int position) {
 			// current menu type
 			return type;
+			
 		}
 
 		...
